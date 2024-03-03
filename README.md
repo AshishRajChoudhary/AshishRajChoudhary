@@ -7,5 +7,5 @@
 - 💬 I have about 4 years of work experience in product development and management.
 - 📫 How to reach me: https://www.linkedin.com/in/imashishraj/ 
 - 😄 Learning new skills and sharing to help others.
-- ⚡ Fun fact: Life is a your work are the paints, all your skills collate to form a masterpiece which is visible looking from far.
+- ⚡ Fun fact: Life is a canvas and your skills are the paints, all your skills pick in thi lifetime, collate to form a masterpiece which is visible looking from far.
 -->
