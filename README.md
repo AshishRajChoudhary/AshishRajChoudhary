@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AshishRajChoudhary/AshishRajChoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 - 🔭 I’m currently working as a Product Specalist@Neilsoft.
 - 🌱 I’m currently learning Data Analysis and Visualisation
 - 👯 I hold an MBA from IIM Raipur and graduation in Engineering.
